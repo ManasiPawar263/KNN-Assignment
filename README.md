@@ -1,11 +1,12 @@
 # KNN-Assignment
 
-Zoo:
+**Zoo:**
 
 Implement a KNN model to classify the animals in to categorie.
 
 
-Glass:
+
+**Glass:**
 
 Prepare a model for glass classification using KNN
 
