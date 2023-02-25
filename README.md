@@ -1,9 +1,12 @@
 # KNN-Assignment
 
 Zoo:
+
 Implement a KNN model to classify the animals in to categorie.
 
+
 Glass:
+
 Prepare a model for glass classification using KNN
 
 Data Description:
@@ -23,6 +26,7 @@ K:Potassium
 Ca: Calcium
 
 Ba: Barium
+
 
 Type: Type of glass: (class attribute)
  1 -- building_windows_float_processed
